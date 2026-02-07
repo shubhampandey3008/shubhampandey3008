@@ -1,6 +1,6 @@
 # Hi there, I'm Shubham Pandey 👋
 
-I am a **Software Engineer** specializing in building scalable backend systems and production-grade AI applications. Currently, I'm at **Ciena**, where I architect RAG pipelines and high-availability microservices.
+I am a **Software Engineer** specializing in building scalable backend systems and production-grade AI applications. Currently, I'm at **Ciena**, where I architect high-availability microservices.
 
 [![Website](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome&logoColor=white)](https://itsmeshubham.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-pandey-23b5201a5/)
@@ -17,23 +17,9 @@ I am a **Software Engineer** specializing in building scalable backend systems a
 
 ---
 
-### 🛠️ Featured Projects
-
-#### 🕒 [TimeScope](https://github.com/shubhampandey3008/TimeScope/)
-A macOS focus tracking and productivity logging agent.
-- Built a low-latency (<1s) tracking agent using Python (AppKit/Tkinter).
-- Developed a FastAPI backend with RBAC for distributed dashboard management.
-
-#### 📊 [SheetChat](https://sheetchat.streamlit.app/)
-A GenAI analytics engine that converts Natural Language to SQL.
-- Leverages Gemini LLM to query large-scale datasets (10k+ rows).
-- Reduced data query time by 90% through instant NL-to-Visualization pipelines.
-
----
-
 ### 📈 GitHub Stats
 
-| ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhampandey3008&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampandey3008&layout=compact&theme=transparent) |
+| ![Shubham's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=shubhampandey3008&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampandey3008&layout=compact&theme=transparent) |
 | :--- | :--- |
 
 ---
