@@ -45,7 +45,7 @@ I am a **Software Engineer** specializing in building scalable backend systems a
 - **Certifications:** Specialized in Go, Docker, and Machine Learning.
 
 ### 🤝 Connect with me
-- 📧 Email: [shubham.p.workconnect@gmail.com](mailto:shubham.p.workconnect@gmail.com)
+- 📧 Email: [shubham.pandey.workconnect@gmail.com](mailto:shubham.pandey.workconnect@gmail.com)
 - 🌐 Portfolio: [itsmeshubham.vercel.app](https://itsmeshubham.vercel.app/)
 
 ---
