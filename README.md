@@ -1,9 +1,9 @@
 # Hi there, I'm Shubham Pandey 👋
 
-I am a **Software Engineer** specializing in building scalable backend systems and production-grade AI applications. Currently, I'm at **Ciena**, where I architect high-availability microservices and production-grade RAG pipelines.
+I am a **Software Engineer** specializing in building scalable backend systems and production-grade AI applications. Currently, I'm at [**Ciena**](https://github.com/ciena), where I architect high-availability microservices and production-grade RAG pipelines.
 
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itsmeshubham.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-pandey-23b5201a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-p-23b5201a5/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pandey_ji_3007/)
 [![CodeForces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/just_shubham)
 
