@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there, I'm Shubham Pandey 👋
 
-<!--
-**shubhampandey3008/shubhampandey3008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Engineer** specializing in building scalable backend systems and production-grade AI applications. Currently, I'm at **Ciena**, where I architect RAG pipelines and high-availability microservices.
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome&logoColor=white)](https://itsmeshubham.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-pandey-23b5201a5/)
+[![LeetCode](https://img.lucent.me/api/v1/leetcode/Pandey_ji_3007?style=flat&logo=leetcode)](https://leetcode.com/u/Pandey_ji_3007/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technical Arsenal
+
+- **Languages:** Python (Expert), Go, JavaScript, TypeScript, SQL, Java
+- **Backend & Cloud:** FastAPI, Node.js, Django, Docker, Kubernetes, GCP, PostgreSQL, MongoDB
+- **AI & ML:** RAG, LangChain, LangGraph, FAISS, Weaviate, Vector Databases
+- **Dev Tools:** Git, GitLab CI/CD, OAuth 2.0, System Design, Microservices
+
+---
+
+### 🛠️ Featured Projects
+
+#### 🕒 [TimeScope](https://github.com/shubhampandey3008/TimeScope/)
+A macOS focus tracking and productivity logging agent.
+- Built a low-latency (<1s) tracking agent using Python (AppKit/Tkinter).
+- Developed a FastAPI backend with RBAC for distributed dashboard management.
+
+#### 📊 [SheetChat](https://sheetchat.streamlit.app/)
+A GenAI analytics engine that converts Natural Language to SQL.
+- Leverages Gemini LLM to query large-scale datasets (10k+ rows).
+- Reduced data query time by 90% through instant NL-to-Visualization pipelines.
+
+---
+
+### 📈 GitHub Stats
+
+| ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhampandey3008&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampandey3008&layout=compact&theme=transparent) |
+| :--- | :--- |
+
+---
+
+### 🏆 Achievements & Recognition
+
+- **Competitive Programming:** Specialist on CodeForces (1400+) and Top 14% on LeetCode.
+- **Awards:** Received 2 Instant Awards at Hughes Systique for exceptional technical contribution.
+- **Certifications:** Certified in Go, Docker, and Machine Learning.
+
+### 🤝 Connect with me
+- 📧 Email: [shubham.pandey.workconnect@gmail.com](mailto:shubham.pandey.workconnect@gmail.com)
+- 🌐 Portfolio: [itsmeshubham.vercel.app](https://itsmeshubham.vercel.app/)
+
+---
+
+*"Building distributed systems by day, solving algorithmic challenges by night."*
