@@ -11,10 +11,22 @@ I am a **Software Engineer** specializing in building scalable backend systems a
 
 ### 🚀 Technical Arsenal
 
-- **Languages:** Python (Expert), Go, JavaScript, TypeScript, SQL, Java
-- **Backend & Cloud:** FastAPI, Node.js, Django, Docker, Kubernetes, GCP, PostgreSQL, MongoDB
-- **AI & ML:** RAG, LangChain, LangGraph, FAISS, Weaviate, Vector Databases
-- **Dev Tools:** Git, GitLab CI/CD, OAuth 2.0, System Design, Microservices
+**Languages** <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,js,ts,java,mysql" />
+</p>
+
+**Backend & Cloud** <p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,docker,kubernetes,gcp,postgres,mongodb" />
+</p>
+
+**AI & Machine Learning** <p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn" /> 
+  <i>(RAG • LangChain • LangGraph • FAISS • Vector DBs)</i>
+</p>
+
+**Dev Tools & Culture** <p align="left">
+  <img src="https://skillicons.dev/icons?i=git,gitlab,linux,postman,selenium" />
+</p>
 
 ---
 
