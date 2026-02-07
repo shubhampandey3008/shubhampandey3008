@@ -19,7 +19,7 @@ I am a **Software Engineer** specializing in building scalable backend systems a
 
 ### 📈 GitHub Stats
 
-| ![Shubham's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=shubhampandey3008&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhampandey3008&layout=compact&theme=transparent) |
+| ![Shubham's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=shubhampandey3008&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shubhampandey3008&layout=compact&theme=transparent) |
 | :--- | :--- |
 
 ---
