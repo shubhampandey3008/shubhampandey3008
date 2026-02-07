@@ -2,7 +2,7 @@
 
 I am a **Software Engineer** specializing in building scalable backend systems and production-grade AI applications. Currently, I'm at [**Ciena**](https://github.com/ciena), where I architect high-availability microservices and production-grade RAG pipelines.
 
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itsmeshubham.vercel.app/)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://itisshubham.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-p-23b5201a5/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Pandey_ji_3007/)
 [![CodeForces](https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/just_shubham)
@@ -46,7 +46,7 @@ I am a **Software Engineer** specializing in building scalable backend systems a
 
 ### 🤝 Connect with me
 - 📧 Email: [shubham.pandey.workconnect@gmail.com](mailto:shubham.pandey.workconnect@gmail.com)
-- 🌐 Portfolio: [itsmeshubham.vercel.app](https://itsmeshubham.vercel.app/)
+- 🌐 Portfolio: [itisshubham.vercel.app](https://itisshubham.vercel.app/)
 
 ---
 
